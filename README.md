@@ -1,3 +1,3 @@
-# Desing-Patterns
+# Design-Patterns
 Builder
 Object Pool
